@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **AI-ML, Java and Tech**
+- 💬 Ask me about **AI-ML, Java, Tech and Cars**
 
 - 📫 How to reach me **work.sahilbhoite@gmail.com**
 
