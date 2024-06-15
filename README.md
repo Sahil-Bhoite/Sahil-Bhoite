@@ -11,8 +11,9 @@
   - 💬 Ask me about <strong>AI-ML, Java, Tech and Cars</strong><br>
   - 📫 How to reach me <strong>work.sahilbhoite@gmail.com</strong>
 </p>
-<p align="right">
-  <img src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" width="500">
+
+<p align="center">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/fdb14256522b06ad3572735ebdb50d4e-1689865671/ENTREGABLE_V4/do-a-beautiful-animated-gif-in-pixelart-for-streamings.gif" width="1100">
 </p>
 
 <h3 align="left">Connect with me:</h3>
