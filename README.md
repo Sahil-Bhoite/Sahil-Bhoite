@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Bhoite</h1>
 <h3 align="center">I'm on MARS</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw0J-PpsuBcsokQIARqvwj5k&ust=1718560470624000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICY0PCW3oYDFQAAAAAdAAAAABAR)">
+<img align="right" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/C4E12AQGqXjmnyuB71g/article-cover_image-shrink_600_2000/0/1624433257039?e=2147483647&v=beta&t=Xm3dRN6delJi5D3Hl8l8ZYJYvUuSvuPzntU5W3KV6dg]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilboite&label=Profile%20views&color=0e75b6&style=flat" alt="sahilboite" /> </p>
 
