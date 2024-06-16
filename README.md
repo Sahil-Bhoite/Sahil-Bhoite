@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/fdb14256522b06ad3572735ebdb50d4e-1689865671/ENTREGABLE_V4/do-a-beautiful-animated-gif-in-pixelart-for-streamings.gif" width="1100">
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="1100">
 </p>
 
 <h3 align="left">Connect with me:</h3>
