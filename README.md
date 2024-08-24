@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sahil Bhoite </h1>
-<h3 align="center">I'm on MARS</h3>
+<h1 align="center"> Hi, I am Sahil </h1>
+<h3 align="center">Software Engineer from Pune, India.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sahil-Bhoite&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil-Bhoite" />
@@ -49,8 +49,3 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil-Bhoite&show_icons=true&locale=en&layout=compact" alt="Sahil-Bhoite" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil-Bhoite&show_icons=true&locale=en" alt="Sahil-Bhoite" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Bhoite&" alt="Sahil-Bhoite" /></p>
