@@ -59,6 +59,6 @@
 
 ### Achievements
 
-- Selected for Amazon ML Summer School 2024
-- 4th Position in Unstop Talent Park
-- 4th Position in FINquest 5.0 by 
+- Selected at: Amazon ML Summer School 2024, gaining valuable experience learning AI and ML from Amazon scientists.
+- 4th Position: Unstop Talent Park: Created AI for students to get hackathon and competition suggestions from resumes.
+- 4th Position: FINquest 5.0 by IIM: Secured 4th place out of 70K participants, showcasing strong entrepreneurial skills.
