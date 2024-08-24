@@ -5,47 +5,60 @@
   <img src="https://komarev.com/ghpvc/?username=Sahil-Bhoite&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil-Bhoite" />
 </p>
 
-<p align="left">
-  - 🔭 I’m currently working on <strong>AI-ML and Java Software Development.</strong><br>
-  - 🌱 I’m currently learning <strong>Java</strong><br>
-  - 💬 Ask me about <strong>AI-ML, Java, Tech and Cars</strong><br>
-  - 📫 How to reach me <strong>work.sahilbhoite@gmail.com</strong>
+### About Me
+
+🎓 B.Tech in Electronics and Telecommunications at MIT Academy of Engineering, Pune (2022-2025)  
+🔭 Currently working on AI-ML and Java Software Development  
+🌱 Learning and expanding my skills in Java  
+💬 Ask me about AI-ML, Java, Tech, and Cars  
 </p>
 
 <p align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="1100">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/pi_ratez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pi_ratez" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sahil-bhoite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-bhoite" height="30" width="40" /></a>
-  <a href="https://instagram.com/sahil.ipynb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil.ipynb" height="30" width="40" /></a>
-</p>
+### Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+**AI ML Intern** | ANMsoft Technologies (Apr 2024 - Jun 2024)
+- Customized open-source LLMs, reducing inference time by 20% and lowering deployment costs by 15%
+- Enhanced RNN-based demand prediction system, improving inventory planning accuracy by 10%
+- Worked on end-to-end machine learning applications with feedback-based model retraining
 
+---
+
+### Projects
+
+1. **MARS: Multi-modal AI Research System**
+   - Engineered a robust file ingestion module supporting various formats
+   - Prepared two Large Language Models with 77% accuracy in complex question answering
+   - Deployed a multi-task system with 20+ enhanced capabilities
+
+2. **KARM: Knowledge-Enhanced Assistance for Resume Management**
+   - Developed an ATS-friendly resume generator with a conversational interface
+   - Engineered a scalable resume parser handling hundreds of resumes
+
+3. **Bull's AI: Algorithmic Stock Prediction**
+   - Generated precise stock forecasts with 95% accuracy
+   - Delivered intraday predictions leading to 29% annualized excess returns in simulations
+
+4. **AIDAS: Artificial Intelligence Driver-Assistance System**
+   - Implemented high-accuracy computer vision for obstacle classification
+   - Reduced inference latency by 15% for real-time autonomous driving decisions
+
+---
+
+### Skills
+
+- **Programming:** Python, Java, JavaScript, HTML, CSS
+- **AI & ML:** TensorFlow, PyTorch, Scikit-learn, LLMs, NLP, Computer Vision, GANs, Reinforcement Learning
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, SQL, Data Visualization
+- **Cloud & DevOps:** AWS (Bedrock, StepFunctions), Docker, Kubernetes, Git CI/CD
+- **Frameworks & Tools:** LangChain, Llama-Index, RAG, OpenCV, Hugging Face, Streamlit, RESTful APIs, Ollama
+
+---
+
+### Achievements
+
+- Selected for Amazon ML Summer School 2024
+- 4th Position in Unstop Talent Park
+- 4th Position in FINquest 5.0 by 
