@@ -101,8 +101,7 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilBhoite&theme=dark&count_private=true&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilBhoite&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilBhoite&count_private=true&show_icons=true&theme=dark)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilBhoite&show_icons=true&locale=en&layout=compact" alt="SahilBhoite" /></p>
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SahilBhoite&theme=radical&no-frame=false&no-bg=false&margin-w=4)
