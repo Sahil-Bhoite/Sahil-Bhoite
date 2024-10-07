@@ -42,7 +42,7 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 ### Bull's AI: Algorithmic Stock Prediction
 - [GitHub](https://github.com/SahilBhoite/BullsAI)
 - Tech Stack: Machine Learning, Financial Data APIs, Deep Learning (LSTM), SVM, Flask, Cloud ML Services, News API
-- Generated consistently precise stock forecasts using cutting-edge ML algorithms with 95% accurate predictions.
+- Generated consistently precise stock forecasts using cutting-edge ML algorithms with 63% accurate predictions.
 - Delivered highly precise intraday predictions, leading to simulated trades with 29% annualized excess returns.
 
 ### AIDAS: Artificial Intelligence Driver-Assistance System
