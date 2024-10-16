@@ -28,32 +28,32 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 ## 🚀 Projects
 
 ### MARS: Multi-modal AI Research System
-- [GitHub](https://github.com/SahilBhoite/MARS)
+- [GitHub](https://github.com/Sahil-Bhoite/MARS)
 - Tech Stack: LLMs, NLP, RAG, LangChain, Neural Networks, Multiprocessing, Embeddings, OpenCV, Vector DB, Gen AI
 - Engineered a robust & scalable file ingestion module for seamless concurrent processing.
 - Prepared two Large Language Models, achieving 77% accuracy in answering complex questions.
 
 ### SAHAB: Smart Assistant for Handling Advocacy and Briefings - SIH 2024 
-- [GitHub](https://github.com/SahilBhoite/SAHAB)
+- [GitHub](https://github.com/Sahil-Bhoite/SAHAB)
 - Tech Stack: Transformers, AWS, LangChain, HuggingFace Embeddings, Streamlit, FAISS, RAG, Vector Stores, Ollama.
 - Built AI chatbot with LLMs for DoJ, boosting info access 40%. Merged NJDG for updates, cutting search time by 50%.
 - Added live court streaming and case checks, increasing user engagement with legal resources by 35% year-over-year.
 - Created RAG architecture with judicial datasets, improving query accuracy 25% and enabling multi-lingual support.
 
 ### KARM: Knowledge-Enhanced Assistance for Resume Management
-- [GitHub](https://github.com/SahilBhoite/KARM)
+- [GitHub](https://github.com/Sahil-Bhoite/KARM)
 - Tech Stack: LLMs, Conversational AI, Prompt Engineering, NER, Ollama, Reinforcement Learning, MLOps, Fine-Tuning
 - Developed an ATS-friendly resume generator with a conversational interface for resume fine-tuning using LLMs.
 - Engineered a scalable resume parser for various formats, handling 100s of resumes, saving 30-60 mins per resume.
 
 ### Bull's AI: Algorithmic Stock Prediction
-- [GitHub](https://github.com/SahilBhoite/BullsAI)
+- [GitHub](https://github.com/Sahil-Bhoite/BullsAI)
 - Tech Stack: Machine Learning, Financial Data APIs, Deep Learning (LSTM), SVM, Flask, Cloud ML Services, News API
 - Generated consistently precise stock forecasts using cutting-edge ML algorithms with 63% accurate predictions.
 - Delivered highly precise intraday predictions, leading to simulated trades with 29% annualized excess returns.
 
 ### AIDAS: Artificial Intelligence Driver-Assistance System
-- [GitHub](https://github.com/SahilBhoite/AIDAS)
+- [GitHub](https://github.com/Sahil-Bhoite/AIDAS)
 - Tech Stack: Computer Vision, TensorFlow/PyTorch, Artificial Sensors, Neural Networks, V2X Protocols, Edge AI
 - Mastered high-accuracy computer vision with neural networks for obstacle classification & refined car control
 - Improved deep learning models to reduce inference latency by 15%, enabling real-time autonomous driving decisions.
