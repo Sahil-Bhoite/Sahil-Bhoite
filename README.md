@@ -33,6 +33,13 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 - Engineered a robust & scalable file ingestion module for seamless concurrent processing.
 - Prepared two Large Language Models, achieving 77% accuracy in answering complex questions.
 
+### SAHAB: Smart Assistant for Handling Advocacy and Briefings - SIH 2024 
+- [GitHub](https://github.com/SahilBhoite/SAHAB)
+- Tech Stack: Transformers, AWS, LangChain, HuggingFace Embeddings, Streamlit, FAISS, RAG, Vector Stores, Ollama.
+- Built AI chatbot with LLMs for DoJ, boosting info access 40%. Merged NJDG for updates, cutting search time by 50%.
+- Added live court streaming and case checks, increasing user engagement with legal resources by 35% year-over-year.
+- Created RAG architecture with judicial datasets, improving query accuracy 25% and enabling multi-lingual support.
+
 ### KARM: Knowledge-Enhanced Assistance for Resume Management
 - [GitHub](https://github.com/SahilBhoite/KARM)
 - Tech Stack: LLMs, Conversational AI, Prompt Engineering, NER, Ollama, Reinforcement Learning, MLOps, Fine-Tuning
