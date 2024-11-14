@@ -19,11 +19,11 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 
 ## 💼 Experience
 
-### ANMsoft Technologies
-**AI ML Intern** | April 2024–June 2024 | Pune, Maharashtra
-- Customized open source LLM for R&D purposes, reducing inference time by 20% & lowering deployment costs by 15%.
-- Enhanced an innovative RNN-based demand prediction system, improving file inventory planning accuracy by 10%.
-- Worked on end-to-end machine learning applications, including model retraining based on feedback mechanisms.
+### Vivada Tech
+**Software Development Intern** | Feb 2024–Aug 2024 | Pune, Maharashtra
+- Collaborated on full-stack Java-SpringBoot projects, automated testing with Selenium, and enhanced product features.
+- Crafted end-to-end ML apps, customized LLMs to reduce inference time by 20%, and cut deployment costs by 15%.
+- Improved RNN-based demand prediction system by 10%, verified through higher accuracy and lower forecast errors.
 
 ## 🚀 Projects
 
