@@ -8,7 +8,10 @@
   <img src="https://profile-counter.glitch.me/{SahilBhoite}/count.svg" alt="Visitor Count" width="180" height="24" />
 </p>
 
-I'm an AI and Machine Learning enthusiast with a passion for developing innovative solutions. Currently pursuing my Bachelor of Technology in Electronics and Telecommunications at MIT Academy of Engineering, Pune. I have experience in various AI/ML projects and internships, focusing on cutting-edge technologies like LLMs, Computer Vision, and Reinforcement Learning.
+I'm Sahil Bhoite, I am final Year B tech student  in Electronics and Telecommunications  at MIT Academy of Engineering, Pune. 
+Throughout my academic career, I have worked on various technologies such as Full stack development, AI, machine learning, data science. To gain practical experience, I have worked on multiple projects and completed an 6 month internship from Feb to Aug this year, where I worked on a social media platform backed by AI for factchecking 
+also, I actively participate in hackathons, which have helped me improve me to work teamwork to improve my problem solving skills I solve problems oncoding platforms like codechef 
+
 
 ## 🎓 Education
 
@@ -21,9 +24,9 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 
 ### Vivada Tech
 **Software Development Intern** | Feb 2024–Aug 2024 | Pune, Maharashtra
-- Collaborated on full-stack Java-SpringBoot projects, automated testing with Selenium, and enhanced product features.
-- Crafted end-to-end ML apps, customized LLMs to reduce inference time by 20%, and cut deployment costs by 15%.
-- Improved RNN-based demand prediction system by 10%, verified through higher accuracy and lower forecast errors.
+- Collaborated on Spring Boot APIs and Selenium based automation, enhancing reliability by 40% & response eﬃciency.
+- Built an LLM-driven fact-checking algorithm using the FakeNewsNet dataset, cutting costs and inference time by 20%.
+- Crafted a collaborative filtering recommendation engine, increasing user engagement by 30%, daily active participation
 
 ## 🚀 Projects
 
