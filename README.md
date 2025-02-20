@@ -17,8 +17,8 @@ also, I actively participate in hackathons, which have helped me improve me to w
 
 - **MIT Academy of Engineering, Pune (Savitribai Phule Pune University)**
   - Bachelor of Technology in Electronics and Telecommunications
-  - 2022–2025
-  - GPA: 8.3/10
+  - 2021–2025
+  - GPA: 9/10
 
 ## 💼 Experience
 
