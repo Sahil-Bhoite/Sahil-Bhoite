@@ -132,21 +132,21 @@ An e-commerce platform showcasing Kashmiri specialties.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white)
 
 ## 📚 Notable Side Projects
 
-- **SQLWhisperer:** AI tool that converts natural language queries into SQL statements using contextual database schemas
-- **CityCalm:** React platform offering virtual walking experiences with responsive design & YouTube API integration
-- **GlassCall:** Modern WebRTC-powered video calling app with frosted glass UI, real-time chat, and screen sharing
-- **Brain Tumor Detection:** Achieved 92% MRI detection accuracy using YOLOv11, deployed on Streamlit for real-time use
+- **[SQLWhisperer](https://github.com/Sahil-Bhoite/SQLWhisperer):** AI tool that converts natural language queries into SQL statements using contextual database schemas
+- **[CityCalm](https://city-calm.vercel.app):** React platform offering virtual walking experiences with responsive design & YouTube API integration
+- **[GlassCall](https://glass-call.vercel.app):** Modern WebRTC-powered video calling app with frosted glass UI, real-time chat, and screen sharing
+- **[Brain Tumor Detection](https://github.com/Sahil-Bhoite/Yolo11-brain-tumor-detection):** Achieved 92% MRI detection accuracy using YOLOv11, deployed on Streamlit for real-time use
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-bhoite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bhoite)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/pi_ratez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work.sahilbhoite@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://sahil-bhoite.github.io/Portfolio/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahil_bhoite)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sahil__Bhoite)
