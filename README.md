@@ -1,4 +1,4 @@
-# Hello, I'm Sahil Arun Bhoite 👋
+# Hello, I'm Sahil Arun Bhoite
 
 <p align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="1100">
@@ -8,145 +8,97 @@
   <img src="https://profile-counter.glitch.me/{SahilBhoite}/count.svg" alt="Visitor Count" width="180" height="24" />
 </p>
 
-## 💫 About Me
+<div align="center">
+    <h2>Software Engineer | AI Enthusiast | Problem Solver | Full-Stack Developer | Data Engineer</h2>
+    <p>Domlur, Bengaluru, Karnataka (560071), India</p>
+    <p>
+        <a href="mailto:work.sahilbhoite@gmail.com">Email</a> •
+        <a href="https://www.linkedin.com/in/sahil-bhoite">LinkedIn</a> •
+        <a href="https://sahil-bhoite.github.io/Website/">Portfolio</a> •
+        <a href="https://codeforces.com/profile/whiteGhost-08">Codeforces</a> •
+        <a href="https://leetcode.com/u/Hi_this_is_max/">LeetCode</a>
+    </p>
+</div>
 
-I'm a final year B.Tech student in Electronics and Telecommunications at MIT Academy of Engineering, Pune (SPPU), with a strong SGPA of 9.0/10. My expertise spans Full Stack Development, AI/ML, and Data Science, with a particular focus on advanced AI research and development.
+## Education
 
-Currently working as an AI Research Intern at Recrew.ai (Gloroots), I'm passionate about solving complex problems through innovative tech solutions. As a competitive programmer, I've solved over 800 problems across platforms and am continuously honing my skills through hackathons and real-world projects.
+**MIT Academy of Engineering, Pune** | *Dec 2021 - June 2025*
+<br>
+Bachelor of Technology in Electronics & Telecommunications | **SGPA: 9.0/10**
 
-## 🎯 Current Focus
+## Technical Skills
 
-- AI-driven automation solutions
-- Large Language Models and RAG architectures
-- Multimodal AI systems
-- Competitive programming and algorithm optimization
+| Category | Skills |
+|----------|--------|
+| **Programming Languages** | Python, Java, Go, JavaScript/TypeScript, SQL |
+| **Full Stack & Backend** | React, Spring Boot, FastAPI, RESTful APIs, Redis, Postman |
+| **AI/ML & Data Science** | PyTorch, TensorFlow, Transformers, NLP, HuggingFace, LangChain, FAISS, OpenCV, Pandas, MLOps |
+| **Cloud** | AWS (EC2, S3, Lambda), Google Cloud (Bigtable, BigQuery), Docker, Kubernetes |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
+| **DevOps & Other Tools** | Git, CI/CD, Linux, Kafka, RabbitMQ, JUnit, OAuth/JWT, Spark, Cursor, Cline, Claude Code |
 
-## 💼 Professional Experience
+## Experience
 
-### Recrew.ai [Gloroots] | AI Research Intern
-**Feb 2025–Present | Pune, Maharashtra**
-- Developed an AI interview platform that automates candidate screening, reducing hiring time by 45% and improving match accuracy by 35%
-- Designed a comprehensive web application for CV-JD matching, candidate screening, testing, and evaluation with advanced prompting techniques
+### **Zeotap - Customer Data Platform**
+**Software Engineer Intern - Backend** | *June 2025 – Present* | *Bengaluru, Karnataka*
+- **Tech Stack:** Java, Spring Boot, Bigtable, BigQuery, Redis, RabbitMQ, Django, PostgreSQL, Microservices, REST APIs, CI/CD
+- Created **Bigtable-backed ID blacklisting lib** with **Redis cache** for **Java CDP pipeline**, improving identity resolution by **30%**.
+- Built a **reactive API caching system**, reducing data refresh delays from **30 minutes to seconds** through real-time updates.
+- Crafted **distributed reindexing** across **microservices** with **RabbitMQ**, **BigQuery**, **API monitoring**, & **automated recovery**.
+- Improved **Role-Based Access Control** via optimized **Django ORM queries** & **database**, ensuring secure authorization.
 
-### Vivada Tech | Software Development Intern
-**Feb 2024–Aug 2024 | Pune, Maharashtra**
-- Optimized Spring Boot backend APIs and Selenium-based automation, enhancing reliability by 40% and response efficiency
-- Deployed an LLM-driven fact-checking algorithm using the FakeNewsNet dataset, reducing costs and inference time by 20%
-- Built a collaborative filtering recommendation engine that increased user engagement and daily active participation by 30%
+### **Gloroots**
+**AI & Software Engineering Intern** | *Feb 2025 – May 2025* | *Pune, Maharashtra*
+- **Tech Stack:** Python, FastAPI, React, TypeScript, OpenAI API, LangGraph, PyTorch, Web Scraping, REST APIs, GPT-4, LLMs
+- Built **configurable AI interview React apps** with **FastAPI**, cutting screening time by **50%** through JD-specific evaluations.
+- Deployed a **large-scale web scraping pipeline** collecting **35k+ CVs & JDs** for fine-tuning **LLM-based internal models**.
+- Optimized **API costs by 50%** by merging CV & JD processing pipelines for vision LLMs using **OpenAI API** & **LangGraph**.
+- Crafted a scalable platform for candidate screening, testing, & evaluation, using **GPT 4 models** & **multi-stage prompting**.
 
-## 🚀 Highlighted Projects
+### **Vivada Tech**
+**Software Development Intern** | *Feb 2024 – Aug 2024* | *Pune, Maharashtra*
+- **Tech Stack:** Java, Spring Boot, REST APIs, Llama2, PyTorch, Transformers, Hugging Face, Collaborative Filtering, MySQL
+- Developed & optimized **Spring Boot backend APIs** for AI-powered social media platform with automated content analysis.
+- Deployed **open-source Llama2 LLM** based **fact-checking algorithm** using the **FakeNewsNet dataset**, cutting costs by **80%**.
+- Built **collaborative filtering recommendation engine** enhancing user experience & engagement via **matrix factorization**.
 
-### MARS: Multi-modal AI Research System - ANN
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/Sahil-Bhoite/MARS)
+## Achievements
 
-A versatile AI research system supporting multimodal document processing and intelligent querying.
+- **Amazon ML Summer School:** Built ML models with Applied Scientists, achieving 15% lower RMSE & 63\% accuracy rate
+- **CodeChef (5-star, 2091):** Ranked in top 991 globally & top 550 in India with 450 problems solved on the platform
+- **LeetCode (Knight badge):** Achieved max rating of 1892 (top 5\% on Leetcode) with 500+ problems solved, Current rating 1725
+- **Codeforces (Expert, 1723):** Solved 350 problems, current rated 1655, with 1300+ total problems across all platforms
+- **Smart India Hackathon (Runner-up, 2023 & 2024):** Led team building full-stack AI solutions for real-world Problems.
 
-- Built versatile file ingestion tool processing 26 file types & 200MB data, enabling Multimodal insights via FAISS ANN
-- Deployed 2-stage RAG pipeline with fine-tuned 4B parameter LLM achieving 67% MMLU & 7.84 MT-bench scores
+## Projects
 
-**Tech Stack:** PyTorch, Transformers, FAISS, LangChain, Embeddings, Multimodal Processing, Vector Search, OpenCV, Docker
+### **MARS: Multi-modal AI Research System - Generative AI & Advanced RAG Pipeline**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat&logo=github)](https://github.com/Sahil-Bhoite/MARS)
+- **Tech:** PyTorch, Transformers, FAISS, LangChain, Embeddings, Multimodal Processing, Vector Search, OpenCV, Docker
+- Built **versatile file ingestion tool** processing **26 file types** & **200MB** data, enabling **Multimodal insights** via **FAISS ANN**
+- Deployed **2-stage RAG pipeline** with fine tuned **4B parameter LLM** achieving **67\% MMLU** & **7.84 MT-bench** scores
 
-### ContestHub: Full-Stack Coding Contest Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/Sahil-Bhoite/ContestHub)
+### **Refine: AI-Powered Resume Optimizer & ATS Analyzer**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat&logo=github)](https://github.com/Sahil-Bhoite/Refine)
+- **Tech:** React, TypeScript, Tailwind CSS, FastAPI, Python, Pydantic, OpenAI API, Uvicorn, Cline, Render, Git, RESTful APIs
+- Built an **AI resume optimizer** improving **JD alignment** by **5\% to 10\%** through automated feedback & content optimization.
+- Delivered end-to-end system for **resume review** & refinement, offering **actionable feedback** via a **seamless multi-step UX**.
 
-A comprehensive platform for coding contest enthusiasts.
+### **SAHAB: Smart Assistant for Handling Advocacy & Briefings - LLM for Legal Tech**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat&logo=github)](https://github.com/Sahil-Bhoite/SAHAB)
+- **Tech:** HuggingFace, LangChain, FAISS Vector DB, InLegalBERT, Google Translator, Google Cloud, RAG, Gemini API
+- Developed **comprehensive multilingual legal AI assistant**, improving **information access** by **15\%** for **justice services**
+- Implemented **robust support** for **40+ languages** including **regional Indian dialects**, substantially expanding **accessibility**
 
-- Built modular contest hub with 50+ UI components, aggregating live data from Codeforces, LeetCode and CodeChef APIs
-- Implemented cross-platform profiles & real-time contest updates for streamlined participant & organizer experience
+### **KSHMR: Kashmir's Specialties Handicrafts & Merchandise Retails - E-Commerce website**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat&logo=github)](https://github.com/Sahil-Bhoite/KSHMR)
+- **Tech:** Spring Boot, Java, React, MySQL, AWS (EC2, S3, CloudFront), JavaScript, Maven, RESTful APIs, CI/CD, Redis
+- Built an **e-commerce platform** for **100+ Kashmiri specialties**, handling **1000+ daily transactions** with **real-time inventory**.
+- Constructed a **responsive design** with robust **CRUD functionalities**, ensuring **optimal performance** across all devices.
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express, MongoDB, Passport.js, Axios, modular components
+## Minor Projects
 
-### SAHAB: Smart Assistant for Handling Advocacy & Briefings - SIH 2024
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/Sahil-Bhoite/SAHAB)
-
-A comprehensive legal AI assistant for the Department of Justice.
-
-- Developed comprehensive multilingual legal AI assistant, improving information access by 15% for justice services
-- Implemented robust support for 40+ languages including regional Indian dialects, substantially expanding accessibility
-
-**Tech Stack:** HuggingFace, LangChain, FAISS Vector DB, InLegalBERT, Google Translator, Google Cloud, RAG, OpenAI API
-
-### KSHMR: Kashmir's Specialties Handicrafts & Merchandise Retails - SIH 2023
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/Sahil-Bhoite/KSHMR)
-
-An e-commerce platform showcasing Kashmiri specialties.
-
-- Built an e-commerce platform for 100+ Kashmiri specialties, handling 1000+ daily transactions with real-time inventory
-- Constructed a responsive design with robust CRUD functionalities, ensuring optimal performance across all devices
-
-**Tech Stack:** Spring Boot, Java, React, MySQL, AWS (EC2, S3, CloudFront), JavaScript, Maven, RESTful APIs, CI/CD, Thymeleaf
-
-## 📊 Competitive Programming
-
-- **Platforms:** Specialist on Codeforces, 5-star on CodeChef, Knight on LeetCode
-- **Solved:** 800+ programming problems
-- **Global Rankings:** Rated 2091 on CodeChef, top 991 globally, 550 in India
-- **Achievements:** Top ranks in most CP contests
-
-## 🏆 Achievements & Hackathons
-
-- Amazon ML Summer School: Built ML models with Applied Scientists, achieving 15% lower RMSE and 63% accuracy rate
-- Finalist in Smart India Hackathon (SIH) 2023 & 2024
-- Competitive Programming: Achieved Specialist title on Codeforces, 5-star rating on CodeChef, Knight badge on LeetCode
-
-## 🛠️ Technical Skills
-
-### Programming & Web Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
-
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-%2355A1CE.svg?style=flat&logo=huggingface&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%23000000.svg?style=flat&logo=natural-language-processing&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=chainlink&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%23FF6F00.svg?style=flat&logo=data&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
-
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-%23181717.svg?style=flat&logo=github-actions&logoColor=white)
-
-### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-%23FF6600.svg?style=flat&logo=apache-hadoop&logoColor=white)
-
-## 📚 Notable Side Projects
-
-- **[SQLWhisperer](https://github.com/Sahil-Bhoite/SQLWhisperer):** AI tool that converts natural language queries into SQL statements using contextual database schemas
-- **[CityCalm](https://city-calm.vercel.app):** React platform offering virtual walking experiences with responsive design & YouTube API integration
-- **[GlassCall](https://glass-call.vercel.app):** Modern WebRTC-powered video calling app with frosted glass UI, real-time chat, and screen sharing
-- **[Brain Tumor Detection](https://github.com/Sahil-Bhoite/Yolo11-brain-tumor-detection):** Achieved 92% MRI detection accuracy using YOLOv11, deployed using Python for real-time use
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bhoite)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work.sahilbhoite@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://sahil-bhoite.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Sahil-Bhoite)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahil_bhoite)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sahil__Bhoite)
+- **[SQLWhisperer](https://github.com/Sahil-Bhoite/SQLWhisperer):** **AI tool** that converts **natural language** into **SQL queries** using **contextual database schemas**
+- **[Brain Tumor Detection](https://github.com/Sahil-Bhoite/Yolo11-brain-tumor-detection):** Achieved **92\% accuracy** on MRI scans using **YOLOv11**, built in **Python** for **real-time inference**
+- **[ContestHub](https://github.com/Sahil-Bhoite/ContestBug):** **Coding contest aggregator** from **Codeforces, LeetCode, CodeChef** with **live updates** & **unified user profiles**
+- **[cfLikeDislike](https://chromewebstore.google.com/detail/ghbnmpbbcljkfcedcgidaokcoiifkdoe?utm_source=item-share-cb):** Chrome extension to **crowdsource & display** real-time **like & dislike feedback** on coding problems on CF
