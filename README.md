@@ -4,9 +4,6 @@
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="1100">
 </p>
 
-<p align="start">
-  <img src="https://profile-counter.glitch.me/{SahilBhoite}/count.svg" alt="Visitor Count" width="180" height="24" />
-</p>
 
 <div align="center">
     <h2>Software Engineer | AI Enthusiast | Problem Solver | Full-Stack Developer | Data Engineer</h2>
