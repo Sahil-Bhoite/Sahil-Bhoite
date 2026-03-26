@@ -21,23 +21,28 @@
 
 **MIT Academy of Engineering, Pune** | *Dec 2021 - June 2025*
 <br>
-Bachelor of Technology in Electronics & Telecommunications | **SGPA: 9.0/10**
+Bachelor of Technology in Electronics & Telecommunications | **CGPA: 8/10**
 
 ## Technical Skills
 
 | Category | Skills |
 |----------|--------|
-| **Programming Languages** | Python, Java, Go, JavaScript/TypeScript, SQL |
-| **Full Stack & Backend** | React, Spring Boot, FastAPI, RESTful APIs, Redis, Postman |
-| **AI/ML & Data Science** | PyTorch, TensorFlow, Transformers, NLP, HuggingFace, LangChain, FAISS, OpenCV, Pandas, MLOps |
-| **Cloud** | AWS (EC2, S3, Lambda), Google Cloud (Bigtable, BigQuery), Docker, Kubernetes |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
-| **DevOps & Other Tools** | Git, CI/CD, Linux, Kafka, RabbitMQ, JUnit, OAuth/JWT, Spark, Cursor, Cline, Claude Code |
+| **Programming Languages** | Python, Java, JavaScript/TypeScript, SQL |
+| **Full Stack & Backend** | React, Spring Boot, FastAPI, Playwright, RESTful APIs |
+| **AI/ML & Data Science** | PyTorch, Transformers, LangGraph, Claude SDK, Agentic Workflows, LangChain, Vector DBs, MLOps |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Google Cloud (Bigtable, BigQuery), Docker, Kubernetes, Git, CI/CD, Linux |
+| **Data & Tools** | PostgreSQL, Redis, MCP, Kafka, RabbitMQ, JUnit, OAuth/JWT, Spark, Cursor, Cline, Claude Code |
 
 ## Experience
 
+### **Hive**
+**Software Engineer -- AI** | *Jan 2026 – Present* | *Remote*
+- Built a **hierarchical multi-agent orchestration system** with a **fault-tolerant supervisor layer** & **Playwright-MCP automation**, enabling scalable end-to-end task execution & continuous **500+ turn autonomous agent loops** with **24/7 uptime**.
+- Developed an **autonomous post-session reflection engine** that utilizes LLMs to analyze execution telemetry & distill performance lessons, dynamically injecting behavioral constraints to achieve **verified continuous self-improvement**.
+- Designed a **real-time quality filtering pipeline** and **double-blind scoring engine** using **SQLite-based deduplication** and regex heuristics, enforcing deterministic server-side guards to guarantee an absolute **0\% false-positive rate** at scale.
+
 ### **Zeotap - Customer Data Platform**
-**Software Engineer Intern - Backend** | *June 2025 – Present* | *Bengaluru, Karnataka*
+**Software Engineer Intern - Backend** | *June 2025 – Dec 2025* | *Bengaluru, Karnataka*
 - **Tech Stack:** Java, Spring Boot, Bigtable, BigQuery, Redis, RabbitMQ, Django, PostgreSQL, Microservices, REST APIs, CI/CD
 - Created **Bigtable-backed ID blacklisting lib** with **Redis cache** for **Java CDP pipeline**, improving identity resolution by **30%**.
 - Built a **reactive API caching system**, reducing data refresh delays from **30 minutes to seconds** through real-time updates.
@@ -52,20 +57,13 @@ Bachelor of Technology in Electronics & Telecommunications | **SGPA: 9.0/10**
 - Optimized **API costs by 50%** by merging CV & JD processing pipelines for vision LLMs using **OpenAI API** & **LangGraph**.
 - Crafted a scalable platform for candidate screening, testing, & evaluation, using **GPT 4 models** & **multi-stage prompting**.
 
-### **Vivada Tech**
-**Software Development Intern** | *Feb 2024 – Aug 2024* | *Pune, Maharashtra*
-- **Tech Stack:** Java, Spring Boot, REST APIs, Llama2, PyTorch, Transformers, Hugging Face, Collaborative Filtering, MySQL
-- Developed & optimized **Spring Boot backend APIs** for AI-powered social media platform with automated content analysis.
-- Deployed **open-source Llama2 LLM** based **fact-checking algorithm** using the **FakeNewsNet dataset**, cutting costs by **80%**.
-- Built **collaborative filtering recommendation engine** enhancing user experience & engagement via **matrix factorization**.
-
 ## Achievements
 
-- **Amazon ML Summer School:** Built ML models with Applied Scientists, achieving 15% lower RMSE & 63\% accuracy rate
-- **CodeChef (5-star, 2091):** Ranked in top 991 globally & top 550 in India with 450 problems solved on the platform
-- **LeetCode (Knight badge):** Achieved max rating of 1892 (top 5\% on Leetcode) with 500+ problems solved, Current rating 1725
-- **Codeforces (Expert, 1723):** Solved 350 problems, current rated 1655, with 1300+ total problems across all platforms
-- **Smart India Hackathon (Runner-up, 2023 & 2024):** Led team building full-stack AI solutions for real-world Problems.
+- **Amazon ML Summer School:** Built ML models alongside Applied Scientists, scoring 15% lower RMSE & 63% overall accuracy.
+- **CodeChef (5-star, 2091):** Ranked in top 991 globally and top 550 in India out of 450+ total problems solved on platform.
+- **LeetCode (Knight badge):** Achieved a max user rating of 1892 (top 5%) with overall 650+ platform problems totally solved.
+- **Codeforces (Expert, 1723):** Solved 350 challenging competitive problems, and over 1300 problems across diverse platforms.
+- **Smart India Hackathon (Runner-up, 2023 & 2024):** Led student tech team building full-stack AI platform solutions for SIH.
 
 ## Projects
 
@@ -99,3 +97,4 @@ Bachelor of Technology in Electronics & Telecommunications | **SGPA: 9.0/10**
 - **[Brain Tumor Detection](https://github.com/Sahil-Bhoite/Yolo11-brain-tumor-detection):** Achieved **92\% accuracy** on MRI scans using **YOLOv11**, built in **Python** for **real-time inference**
 - **[ContestHub](https://github.com/Sahil-Bhoite/ContestBug):** **Coding contest aggregator** from **Codeforces, LeetCode, CodeChef** with **live updates** & **unified user profiles**
 - **[cfLikeDislike](https://chromewebstore.google.com/detail/ghbnmpbbcljkfcedcgidaokcoiifkdoe?utm_source=item-share-cb):** Chrome extension to **crowdsource & display** real-time **like & dislike feedback** on coding problems on CF
+problems on CF
